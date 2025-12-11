@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Liu Qingli (Echo)",
+    "email": "22039631r@connect.polyu.hk",
+    "phone": "(+852) 54482021",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Hong Kong",
       "countryCode": "US",
       "region": ""
     },
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=nkZjDrUAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
